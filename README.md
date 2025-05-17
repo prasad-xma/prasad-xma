@@ -85,7 +85,7 @@ _Android app for managing monthly budgets and withdrawals with notifications._
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=prasad-xma&show_icons=true&theme=radical" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasad-xma&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
