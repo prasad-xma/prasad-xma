@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Prasad Manamperi</h1>
-<h3 align="center">2nd Year Undergraduate | Software Engineering @ SLIIT 🎓</h3>
+<h3 align="center">3rd Year Undergraduate | Software Engineering @ SLIIT 🎓</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
