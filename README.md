@@ -12,7 +12,7 @@
 ---
 
 🌟 I'm passionate about **Full-Stack Development**, specializing in **Mobile Apps** and the **MERN Stack**.  
-📱 Building useful tools like **budget trackers** and **agro support systems** to solve real-world problems.
+📱 Building useful tools like **budget trackers**, **agro support systems**, and **AI-powered skill recommenders** to solve real-world problems.
 
 ---
 
@@ -26,7 +26,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-
 #### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -38,10 +37,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 #### 📱 Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
@@ -52,6 +52,12 @@ _Smart agriculture system to manage crops, users, and reports using the MERN sta
 
 🔸 [**Budget Tracking App** 💰](#)  
 _Android app for managing monthly budgets and withdrawals with notifications._
+
+🔸 [**SkillBridge** 🤖](https://github.com/prasad-xma/SkillBridge.git)  
+_A React Native + Node.js + Firebase group project. I developed the **AI skill recommendation** feature to guide users toward career growth._
+
+🔸 [**Hospital Management System** 🏥](https://github.com/prasad-xma/Hospital-Management-System.git)  
+_A Spring Boot + React.js + MongoDB group project. I implemented **authentication, authorization, and patient management** modules._
 
 ---
 
@@ -75,5 +81,3 @@ _Android app for managing monthly budgets and withdrawals with notifications._
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
 
 ![Your Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
----
