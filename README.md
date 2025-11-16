@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Welcome-to%20My%20GitHub-blueviolet?style=for-the-badge&logo=github" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PRASAD%20MANAMPERI&fontSize=40&fontColor=fff" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prasad Manamperi</h1>
@@ -12,56 +12,90 @@
 ---
 
 🌟 I'm passionate about **Full-Stack Development**, specializing in **Mobile Apps** and the **MERN Stack**.  
-📱 Building useful tools like **budget trackers**, **agro support systems**, and **AI-powered skill recommenders** to solve real-world problems.
+📱 Building useful tools like **agro support systems**, **AI-powered skill recommenders**, and **enterprise apps** to solve real-world problems.
 
 ---
 
-### 🧠 Skills & Technologies
+## 🧠 Skills & Technologies
 
-#### 💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-#### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-#### 🛠 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-#### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,c,cpp&theme=light" width="400"/>
+</p>
+<p align="center">Java • Kotlin • JavaScript • Python • C • C++</p>
 
 ---
 
-### 🚀 Projects
-
-🔸 [**GreenRoot** 🌱](#)  
-_Smart agriculture system to manage crops, users, and reports using the MERN stack._
-
-🔸 [**Budget Tracking App** 💰](#)  
-_Android app for managing monthly budgets and withdrawals with notifications._
-
-🔸 [**SkillBridge** 🤖](https://github.com/prasad-xma/SkillBridge.git)  
-_A React Native + Node.js + Firebase group project. I developed the **AI skill recommendation** feature to guide users toward career growth._
-
-🔸 [**Hospital Management System** 🏥](https://github.com/prasad-xma/Hospital-Management-System.git)  
-_A Spring Boot + React.js + MongoDB group project. I implemented **authentication, authorization, and patient management** modules._
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react&theme=light" width="400"/>
+</p>
+<p align="center">HTML • CSS • TailwindCSS • Bootstrap • React</p>
 
 ---
 
-### 📫 Let's Connect
+### 🛠 Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,mongodb,firebase,django&theme=light" width="400"/>
+</p>
+<p align="center">Node.js • Spring Boot • MongoDB • Firebase • Django</p>
+
+---
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,react&theme=light" width="200"/>
+</p>
+<p align="center">Android • React Native</p>
+
+---
+
+### 🖥️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm&theme=light" width="450"/>
+</p>
+<p align="center">VS Code • IntelliJ IDEA • Eclipse • PyCharm</p>
+
+---
+
+## 🚀 Projects
+
+#### 🌱 GreenRoot  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/GreenRoot.git)  
+<img src="https://via.placeholder.com/500x250.png?text=GreenRoot+Preview" width="500" />  
+Smart agriculture system to manage crops, users, and reports using the **MERN stack**.
+
+---
+
+#### 🤖 SkillBridge  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/SkillBridge.git)  
+<img src="https://via.placeholder.com/500x250.png?text=SkillBridge+Preview" width="500" />  
+A **React Native + Node.js + Firebase** group project. I developed the **AI skill recommendation** feature to guide users toward career growth.
+
+---
+
+#### 🏥 Hospital Management System  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/Hospital-Management-System.git)  
+<img src="https://via.placeholder.com/500x250.png?text=Hospital+System+Preview" width="500" />  
+A **Spring Boot + React.js + MongoDB** group project. I implemented **authentication, authorization, and patient management** modules.
+
+---
+
+#### ✍️ Django Blog Project  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/django-blog-project.git)  
+<img src="https://via.placeholder.com/500x250.png?text=Django+Blog+Preview" width="500" />  
+A blog application built with **Django**, featuring post creation, editing, and user management.
+
+---
+
+#### 🚗 Vehicle Rental System  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/Vehicle_Rental_System.git)  
+<img src="https://via.placeholder.com/500x250.png?text=Vehicle+Rental+Preview" width="500" />  
+A **Java Servlet + Bootstrap + CSS** project for managing vehicle rentals, bookings, and customer records.
+
+---
+
+## 📫 Let's Connect
 
 - 📧 Email: **prasadmanamperi130@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/prasad-manamperi-5599b9362?trk=contact-info)
@@ -70,9 +104,10 @@ _A Spring Boot + React.js + MongoDB group project. I implemented **authenticatio
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasad-xma&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasad-xma&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-xma&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -80,4 +115,10 @@ _A Spring Boot + React.js + MongoDB group project. I implemented **authenticatio
 ### Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
 
-![Your Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+</p>
