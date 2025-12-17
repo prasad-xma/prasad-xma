@@ -62,35 +62,35 @@
 
 #### 🌱 GreenRoot  
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/GreenRoot.git)  
-<img src="https://via.placeholder.com/500x250.png?text=GreenRoot+Preview" width="500" />  
+<!-- <img src="https://via.placeholder.com/500x250.png?text=GreenRoot+Preview" width="500" />   -->
 Smart agriculture system to manage crops, users, and reports using the **MERN stack**.
 
 ---
 
 #### 🤖 SkillBridge  
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/SkillBridge.git)  
-<img src="https://via.placeholder.com/500x250.png?text=SkillBridge+Preview" width="500" />  
+<!-- <img src="https://via.placeholder.com/500x250.png?text=SkillBridge+Preview" width="500" />   -->
 A **React Native + Node.js + Firebase** group project. I developed the **AI skill recommendation** feature to guide users toward career growth.
 
 ---
 
 #### 🏥 Hospital Management System  
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/Hospital-Management-System.git)  
-<img src="https://via.placeholder.com/500x250.png?text=Hospital+System+Preview" width="500" />  
+<!-- <img src="https://via.placeholder.com/500x250.png?text=Hospital+System+Preview" width="500" />   -->
 A **Spring Boot + React.js + MongoDB** group project. I implemented **authentication, authorization, and patient management** modules.
 
 ---
 
 #### ✍️ Django Blog Project  
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/django-blog-project.git)  
-<img src="https://via.placeholder.com/500x250.png?text=Django+Blog+Preview" width="500" />  
+<!-- <img src="https://via.placeholder.com/500x250.png?text=Django+Blog+Preview" width="500" />   -->
 A blog application built with **Django**, featuring post creation, editing, and user management.
 
 ---
 
 #### 🚗 Vehicle Rental System  
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/prasad-xma/Vehicle_Rental_System.git)  
-<img src="https://via.placeholder.com/500x250.png?text=Vehicle+Rental+Preview" width="500" />  
+<!-- <img src="https://via.placeholder.com/500x250.png?text=Vehicle+Rental+Preview" width="500" />   -->
 A **Java Servlet + Bootstrap + CSS** project for managing vehicle rentals, bookings, and customer records.
 
 ---
